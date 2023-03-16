@@ -58,9 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-main{
-    position: relative;
-}
+
 .content {
     position: absolute;
     width: 75%;
@@ -79,9 +77,9 @@ main{
 }
 
 .benefits {
-    margin: 10px 20px;
-    margin-bottom: 20px;
-    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding: 20px 10px;
     clear: both;
     float: right;
     width: 20%;
@@ -184,12 +182,12 @@ main{
 }
 
 .footer {
-    padding: 30px;
+    padding: 50px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 30px;
 }
