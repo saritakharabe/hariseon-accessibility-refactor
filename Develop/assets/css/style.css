@@ -58,8 +58,11 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+main{
+    position: relative;
+}
 .content {
+    position: absolute;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -76,7 +79,7 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin: 10px 20px;
     margin-bottom: 20px;
     padding: 20px;
     clear: both;
