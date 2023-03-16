@@ -1,6 +1,6 @@
 # harison-accessibility-refactor
 
-![sreenshot of final page](Challenges/hariseon-accessibility-refactor/assets/images/screenshot.png)
+![sreenshot of final page](./assets/images/screenshot.png)
 
 ## User Story
 
